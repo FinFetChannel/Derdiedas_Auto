@@ -1,14 +1,14 @@
 {
   "name": "DerDieDas Auto",
   "short_name": "DerDieDas Auto",
-  "start_url": "/index.html",
+  "start_url": "/Derdiedas_Auto/index.html",
   "display": "standalone",
   "background_color": "#FFFFFF",
   "theme_color": "#FFFFFF",
   "orientation": "landscape-primary",
   "icons": [
     {
-      "src": "/favicon.png",
+      "src": "/Derdiedas_Auto/favicon.png",
       "sizes": "512x512",
       "type": "image/png"
     }
